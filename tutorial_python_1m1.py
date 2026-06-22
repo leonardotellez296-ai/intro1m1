@@ -3,7 +3,7 @@
 
 def main():
     print("====================================================")
-    print("   ¡BIENVENIDO AL TUTORIAL DE PYTHON PARA EL 1M1!- Hola   ")
+    print("   ¡BIdhfuojfENVENIDO AL TUTORIAL DE PYTHON PARA EL 1M1!- Hola   ")
     print("====================================================\n")
     print("Este archivo te ayudará a traducir lo que aprendiste en PSeInt a Python.")
     print("Python es un lenguaje 'identado', lo que significa que los espacios")
